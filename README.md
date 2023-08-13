@@ -16,7 +16,7 @@
 ### Support my work
 [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/BzzzThe18th)
 
-[![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Fuck%20that%2C%20do%20your%20own%20shit%20you%20dumbass%20bitch)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fuck%20that%2C%20do%20your%20own%20shit%20you%20dumbass%20bitch)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api?username=BzzzThe18th&show_icons=true&card_width=1000&theme=dark#gh-dark-mode-only)]()
 [![](https://github-readme-stats.vercel.app/api?username=BzzzThe18th&show_icons=true&card_width=1000&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![](https://spotify-recently-played-readme.vercel.app/api?user=5ijj1ef3gtzy3iaj3q4obv1wr&width=1000)](https://github.com/BzzzThe18th)
