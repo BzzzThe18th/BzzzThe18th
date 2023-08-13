@@ -1,4 +1,4 @@
-# Hello there, I'm buzz. I don't upload any personal projects, only really mods for the community to use and learn from.
+# Hello there, I'm buzz. I don't upload many personal projects, only really mods for the community to use and learn from.
 
 * Just call me buzz, Bzzz is for usernames only
 * I go by They/She
